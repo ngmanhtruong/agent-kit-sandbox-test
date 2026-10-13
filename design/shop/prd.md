@@ -1,6 +1,6 @@
 ---
 feature: shop
-status: draft
+status: approved
 ---
 # PRD: giỏ hàng
 

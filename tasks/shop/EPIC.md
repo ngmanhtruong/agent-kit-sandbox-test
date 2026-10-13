@@ -2,10 +2,11 @@
 id: SHOP
 type: epic
 epic: SHOP
-status: draft
+status: approved
 design: design/shop
 requirements: [REQ-01, REQ-02]
 holdout: true
+issue: 6
 ---
 
 # Mục tiêu
