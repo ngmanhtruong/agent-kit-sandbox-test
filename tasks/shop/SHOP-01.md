@@ -2,12 +2,13 @@
 id: SHOP-01
 type: task
 epic: SHOP
-status: draft
+status: approved
 depends_on: []
 requirements: [REQ-01]
 priority: 1
 holdout: true
 design: design/shop
+issue: 2
 ---
 
 # Mục tiêu
